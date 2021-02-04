@@ -1,1 +1,38 @@
-hi
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Class Demo Spring 21</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>Item</li>
+                <li>Item</li>
+            </ul>
+            <ol>
+                <li>Item</li>
+                <li>Item</li>
+            </ol>
+        </nav>
+    </header>
+    
+    <section>
+        <h1>Page Title</h1>
+        <h2>Section 1</h2>
+        <p>Body Copy...description about the class</p>
+        <a href="http://apple.com">Visit Apple.com</a>
+    </section>
+    
+    <section>
+        <h2>Section 2</h2>
+    </section>
+    
+    <section></section>
+    
+    <footer></footer>
+    
+    <div></div>
+</body>    
+</html>
